@@ -1,4 +1,4 @@
-# library-Management
+# Tic-Tac-Toe
 Project Description
 This is a simple Tic-Tac-Toe game developed using Python's tkinter library. It provides a basic implementation of a 3x3 grid game where two players, X and O, take turns to place their symbols on the board. The first player to align three of their symbols in a row, column, or diagonal wins the game.
 
